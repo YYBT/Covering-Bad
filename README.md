@@ -1,3 +1,5 @@
+!推动 图片清晰或者模糊
+
 ![Covering Bad](https://raw.github.com/seyedi/Covering-Bad/master/images/logo.jpg)
 
 #####A simple jQuery Plugin for cover an item by another item with dragging ability.
